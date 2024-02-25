@@ -1,1 +1,1 @@
-![alt text](imgg.svg "Optional title")
+![alt text](img.svg "Optional title")
